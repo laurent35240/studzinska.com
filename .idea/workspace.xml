@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="538d39dc-6975-4606-a8bc-189404eb5c0a" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="www" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>title</find>
+      <find>kon</find>
+      <find>KONt</find>
+      <find>Studzinska, A.</find>
+      <find>[</find>
+      <find>cv-lin</find>
+      <find>cv-link</find>
+      <find>cv</find>
+      <find>li</find>
+      <find>ul li</find>
+      <find>list-o</find>
+      <find>lists</find>
+      <find>ul</find>
+      <find>a</find>
+      <find>An e</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;strong&gt;Studzinska, A.&lt;/strong&gt;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/assets/custom/2.2.0/scss</dir>
+      <dir>$PROJECT_DIR$/assets/custom/2.2.0</dir>
+    </dirStrings>
+  </component>
+  <component name="JQLSearcherProjectManager">
+    <selected>-1</selected>
+    <searchers />
+  </component>
+  <component name="JiraServerManager">
+    <selected>-1</selected>
+    <servers />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="145" />
+    <option name="width" value="1050" />
+    <option name="height" value="572" />
+  </component>
+  <component name="ProjectId" id="1a5kH1OeXvt3ahO1ydSug2F7wo0" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.publication.html">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration name="contacts.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/contacts.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="flaticon.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/assets/vendor/flaticons/flaticon.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="publication.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://studzinska.com/publication.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.flaticon.html" />
+      <item itemvalue="JavaScript Debug.contacts.html" />
+      <item itemvalue="JavaScript Debug.publication.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.publication.html" />
+        <item itemvalue="JavaScript Debug.contacts.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.flaticon.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="538d39dc-6975-4606-a8bc-189404eb5c0a" name="Default" comment="" />
+      <created>1486678520798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486678520798</updated>
+      <workItem from="1486678522665" duration="2426000" />
+      <workItem from="1486829806447" duration="63000" />
+      <workItem from="1486830318787" duration="2247000" />
+      <workItem from="1486938233392" duration="853000" />
+      <workItem from="1486939108965" duration="52000" />
+      <workItem from="1486939179100" duration="1945000" />
+      <workItem from="1487522490940" duration="14000" />
+      <workItem from="1487522526072" duration="4895000" />
+      <workItem from="1487544846193" duration="894000" />
+      <workItem from="1487545777631" duration="6790000" />
+      <workItem from="1487702351867" duration="6277000" />
+      <workItem from="1487979470386" duration="1107000" />
+      <workItem from="1488016168592" duration="7032000" />
+      <workItem from="1488130495098" duration="3595000" />
+      <workItem from="1488409268143" duration="31000" />
+      <workItem from="1586031941071" duration="56000" />
+      <workItem from="1586032755433" duration="33000" />
+      <workItem from="1586032796542" duration="854000" />
+      <workItem from="1586119233924" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="225" key="#File_Watchers" timestamp="1586032856814">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="225" key="#File_Watchers/0.0.1792.1120@0.0.1792.1120" timestamp="1586032856814" />
+    <state x="546" y="345" key="EditFileWatcherDialog" timestamp="1586032926601">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="546" y="345" key="EditFileWatcherDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586032926601" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1586032927811">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1586032927811" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1586375521025">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586375521025" />
+    <state x="767" y="460" key="publish.login" timestamp="1586033284564">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="767" y="460" key="publish.login/0.0.1792.1120@0.0.1792.1120" timestamp="1586033284564" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1586032898956">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1586032898956" />
+  </component>
+</project>

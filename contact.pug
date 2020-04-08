@@ -1,0 +1,22 @@
+doctype html
+html(lang='en')
+  include includes/head
+  body#samuel.boxed
+    #preloader
+    include includes/header
+    .content-wrap
+      #feedback.inner-content
+        section#page-title.inner-section.ui-menu-color06
+          .container-fluid.nopadding
+            h2.font-accident-two-bold.color06(data-animation-origin='right', data-animation-duration='400', data-animation-delay='100', data-animation-distance='50px')
+              | KONTAKT
+        section.inner-section.bg-color01.feedback.feedback-light(data-section="feedback")
+          .container-fluid
+            p.text-center
+              | dr Anna Studzińska<br/>
+              a(href='mailto:studzinna@gmail.com' target='_blank') studzinna@gmail.com
+              br
+              | +33 6 88 99 61 35 (FR)<br/>
+              | +48 693 590 122 (PL)
+
+    include includes/footer
